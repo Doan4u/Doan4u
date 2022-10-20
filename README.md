@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Doan4u
-- 👀 I’m interested in web programing, favorite in front end
+- 👀 I’m interested in web programing, specially in front end
 - 🌱 I’m currently learning laravel
 
 <!---
